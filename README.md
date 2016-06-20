@@ -1,4 +1,5 @@
 ## My Resume
-Currently not hosted anywhere. PDF version will be hosted separately.
+Currently hosted at http://resume.joelruhland.net
+PDF generation is currently performed manually.
 
 Original html/css by the SRT. No rights reserved.
