@@ -1,5 +1,10 @@
-## My Resume
-Current version hosted at http://resume.joelruhland.net
-PDF generation is currently performed manually.
+## Joel Ruhland's Resume
+#### Mechatronics Engineering Student, [UWaterloo](https://uwaterloo.ca/mechanical-mechatronics-engineering/)
+#### Previous Work:
+[Interset](https://interset.com/), [Sandvine](https://www.sandvine.com/), [Waterloop](https://teamwaterloop.ca/), [Karat](https://www.karat.io/)
 
-Original html/css by the SRT. No rights reserved.
+#### PDF:
+http://resume.joelruhland.net
+
+
+Resume Created Using [Creddle](http://creddle.io/)
