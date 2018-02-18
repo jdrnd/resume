@@ -6,5 +6,6 @@
 #### PDF:
 http://resume.joelruhland.net
 
+![Resume](https://image.prntscr.com/image/kcUU0PwLR8aLOx1iIOVz5A.png)
 
 Resume Created Using [Creddle](http://creddle.io/)
